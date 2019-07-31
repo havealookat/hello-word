@@ -1,4 +1,1 @@
-hello-word
-我是冲，来这里学习。欢迎大家一起交流。
-今天遇到了些困难，就是合并merge。
-从develop里面提交一个pull requests到master分支，并将其合并
+在develop分支里面创造一个develop.txt文件，并提交一个commit
